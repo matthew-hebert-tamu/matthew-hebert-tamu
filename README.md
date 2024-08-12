@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matthew-hebert-tamu
+- 👀 I’m interested in game design and development
+- 🌱 I’m currently learning computer science at Texas A&M University
+- 📫 You can reach me through my school email: matthew_hebert@tamu.edu
+- ⚡ Fun fact: I am a proud uncle of one nephew, two nieces, and one on the way! :)
